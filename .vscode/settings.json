@@ -3,10 +3,5 @@
   "editor.formatOnSave": true,
   "prettier.singleQuote": true,
   "prettier.semi": false,
-  "prettier.tabWidth": 2,
-  "[typescript]": {
-    "editor.codeActionsOnSave": {
-      "source.fixAll": true
-    }
-  }
+  "prettier.tabWidth": 2
 }
