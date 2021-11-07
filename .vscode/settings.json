@@ -3,5 +3,5 @@
   "editor.formatOnSave": true,
   "prettier.singleQuote": true,
   "prettier.semi": false,
-  "prettier.tabWidth": 2
+  "prettier.tabWidth": 4
 }
